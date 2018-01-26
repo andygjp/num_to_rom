@@ -1,5 +1,6 @@
 {
-  "name": "Roman numerals",
+  "name": "number-to-roman",
+  "description": "Decimal number to roman numerals kata",
   "version": "1.0.0",
   "private": true,
   "author": "NIMA && MACH",
