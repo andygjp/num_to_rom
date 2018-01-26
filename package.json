@@ -6,7 +6,8 @@
   "author": "NIMA && MACH",
   "repository": "https://github.com/NicolasMartinho/num_to_rom.git",
   "scripts": {
-    "test" : "jest --watchAll"
+    "test.watch" : "jest --watchAll",
+    "test": "jest"
   },
   "devDependencies": {
     "jest": "^22.1.4"
