@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "author": "NIMA && MACH",
+  "repository": "https://github.com/NicolasMartinho/num_to_rom.git",
   "scripts": {
     "test" : "jest --watchAll"
   },
